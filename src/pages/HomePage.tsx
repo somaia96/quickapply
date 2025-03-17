@@ -2,6 +2,7 @@ import NavBar from "../components/Layout/NavBar"
 import Header from "../components/Header"
 import Info from "../components/Info"
 import Evalution from "../components/Evalution"
+import Hak from "../components/Hak"
 
 const HomePage = () => {
 
@@ -10,6 +11,7 @@ const HomePage = () => {
     <Header />
     <Info />
     <Evalution />
+    <Hak/>
   </div>
 
 }
